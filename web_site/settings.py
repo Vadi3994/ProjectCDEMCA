@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Web_App',
     'imagekit',
+    'DjangoDb',
 ]
 
 MIDDLEWARE = [
