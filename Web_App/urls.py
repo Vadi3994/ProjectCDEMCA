@@ -32,5 +32,6 @@ urlpatterns = [
     url(r'^agents$', views.agents, name='agents'),
     url(r'^elements$', views.elements, name='elements'),
     url(r'^contact$', views.contact, name='contact'),
+    url(r'^searchresult$', views.searchresult, name='searchresult'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 urlpatterns += staticfiles_urlpatterns()

@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
+{% extends "base.html" %}
 {% load staticfiles %}
+{% block page_content %}
+
 <head>
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -169,6 +172,8 @@
 		<div class="container">
 			<div class="row d-flex justify-content-center">
 			<div class="row">
+			
+			{% for propdetail in propdetails %}
 				<div class="col-lg-4">
 					<div class="single-property">
 						<div class="images">
@@ -178,19 +183,19 @@
 
 						<div class="desc">
 							<div class="top d-flex justify-content-between">
-								<h4><a href="#">04 Bed Duplex</a></h4>
-								<h4>$3.5M</h4>
+								<h4><a href="#">{{propdetail.Property Name}}</a></h4>
+								<h4>${{propdetail.Price}}</h4>
 							</div>
 							<div class="middle">
 								<div class="d-flex justify-content-start">
-									<p>Bed: 04</p>
-									<p>Bath: 03</p>
-									<p>Area: 750sqm</p>
+									<p>Bed: {{propdetail.Bed}}</p>
+									<p>Bath: {{propdetail.Bath}}</p>
+									<p>Area: {{propdetail.Area}}</p>
 								</div>
 								<div class="d-flex justify-content-start">
-									<p>Pool: <span class="gr">Yes</span></p>
-									<p>Internet: <span class="rd">No</span></p>
-									<p>Cleaning: <span class="rd">No</span></p>
+									<p>Pool: <span class="gr">{{propdetail.Pool}}</span></p>
+									<p>3D View: <span class="rd">{{propdetail.3D View}}</span></p>
+									<p>Furnished: <span class="rd">{{propdetail.Furnished}}</span></p>
 								</div>
 							</div>
 							<div class="bottom d-flex justify-content-start">
@@ -200,100 +205,41 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-4">
-					<div class="single-property">
-						<div class="images">
-							<img class="img-fluid mx-auto d-block" src="{% static 'Web_App/index/img/s2.jpg' %}" alt="">
-							<span>For Sale</span>
-						</div>
-
-						<div class="desc">
-							<div class="top d-flex justify-content-between">
-								<h4><a href="#">04 Bed Duplex</a></h4>
-								<h4>$3.5M</h4>
-							</div>
-							<div class="middle">
-								<div class="d-flex justify-content-start">
-									<p>Bed: 04</p>
-									<p>Bath: 03</p>
-									<p>Area: 750sqm</p>
-								</div>
-								<div class="d-flex justify-content-start">
-									<p>Pool: <span class="gr">Yes</span></p>
-									<p>Internet: <span class="rd">No</span></p>
-									<p>Cleaning: <span class="rd">No</span></p>
-								</div>
-							</div>
-							<div class="bottom d-flex justify-content-start">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="single-property">
-						<div class="images">
-							<img class="img-fluid mx-auto d-block" src="{% static 'Web_App/index/img/s3.jpg'%}" alt="">
-							<span>For Sale</span>
-						</div>
-
-						<div class="desc">
-							<div class="top d-flex justify-content-between">
-								<h4><a href="#">04 Bed Duplex</a></h4>
-								<h4>$3.5M</h4>
-							</div>
-							<div class="middle">
-								<div class="d-flex justify-content-start">
-									<p>Bed: 04</p>
-									<p>Bath: 03</p>
-									<p>Area: 750sqm</p>
-								</div>
-								<div class="d-flex justify-content-start">
-									<p>Pool: <span class="gr">Yes</span></p>
-									<p>Internet: <span class="rd">No</span></p>
-									<p>Cleaning: <span class="rd">No</span></p>
-								</div>
-							</div>
-							<div class="bottom d-flex justify-content-start">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-4">
-					<div class="single-property">
-						<div class="images">
-							<img class="img-fluid mx-auto d-block" src="{% static 'Web_App/index/img/s3.jpg'%}" alt="">
-							<span>For Sale</span>
-						</div>
-
-						<div class="desc">
-							<div class="top d-flex justify-content-between">
-								<h4><a href="#">06 Bed Duplex</a></h4>
-								<h4>$3.5M</h4>
-							</div>
-							<div class="middle">
-								<div class="d-flex justify-content-start">
-									<p>Bed: 04</p>
-									<p>Bath: 03</p>
-									<p>Area: 750sqm</p>
-								</div>
-								<div class="d-flex justify-content-start">
-									<p>Pool: <span class="gr">Yes</span></p>
-									<p>Internet: <span class="rd">No</span></p>
-									<p>Cleaning: <span class="rd">No</span></p>
-								</div>
-							</div>
-							<div class="bottom d-flex justify-content-start">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>
-						</div>
-					</div>
-				</div>
+				{% endfor %}
 			</div>
+			<nav class="blog-pagination justify-content-center d-flex">
+                            <ul class="pagination">
+                                <li class="page-item">
+                                    <a href="#" class="page-link" aria-label="Previous">
+                                        <span aria-hidden="true">
+                                            <span class="lnr lnr-chevron-left"></span>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="page-item">
+                                    <a href="#" class="page-link">01</a>
+                                </li>
+                                <li class="page-item active">
+                                    <a href="#" class="page-link">02</a>
+                                </li>
+                                <li class="page-item">
+                                    <a href="#" class="page-link">03</a>
+                                </li>
+                                <li class="page-item">
+                                    <a href="#" class="page-link">04</a>
+                                </li>
+                                <li class="page-item">
+                                    <a href="#" class="page-link">09</a>
+                                </li>
+                                <li class="page-item">
+                                    <a href="#" class="page-link" aria-label="Next">
+                                        <span aria-hidden="true">
+                                            <span class="lnr lnr-chevron-right"></span>
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </nav>
 			</div>
 			</section>
 
@@ -381,5 +327,5 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="{% static 'Web_App/index/js/owl.carousel.min.js' %} "></script>
 	<script src="{% static 'Web_App/index/js/main.js' %} "></script>
 </body>
-
+{% endblock %}
 </html>

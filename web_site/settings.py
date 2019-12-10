@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'Web_App',
     'imagekit',
-    'DjangoDb',
 ]
 
 MIDDLEWARE = [
@@ -56,7 +55,7 @@ ROOT_URLCONF = 'web_site.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, r'C:\Users\velu3\Documents\web_site\Web_SiteTemps'),os.path.join(BASE_DIR, r'C:\Users\velu3\Documents\web_site\Web_App\Web_AppTemps')],
+        'DIRS': [os.path.join(BASE_DIR, r'C:\Users\velu3\Documents\GitHub\ProjectCDEMCA\Web_SiteTemps'),os.path.join(BASE_DIR, r'C:\Users\velu3\Documents\GitHub\ProjectCDEMCA\Web_App\Web_AppTemps')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -123,8 +122,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = r'C:\Users\velu3\Documents\web_site\Web_App\static\Web_App\css'
+STATIC_ROOT = r'C:\Users\velu3\Documents\GitHub\ProjectCDEMCA\Web_App\static\Web_App'
 
-MEDIA_ROOT = r'C:\Users\velu3\Documents\web_site\Web_App\media\Web_App'
+MEDIA_ROOT = r'C:\Users\velu3\Documents\GitHub\ProjectCDEMCA\Web_App\media\WebApp'
 
 MEDIA_URL = '/media/'

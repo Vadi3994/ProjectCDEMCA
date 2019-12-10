@@ -1,6 +1,18 @@
 from django.shortcuts import render
+from django.db import models
 
+#from Web_App.models import propertydetails
+
+Propmodel = models.ForeignKey('Web_App.propertydetails',on_delete=models.PROTECT)
 # Create your views here.
+
+def searchresult(request):
+    propdetail=Propmodel.propertydetails.objects.all()
+    results={
+        'propdetail':propdetail
+    }
+    return render(request, 'Web_App/elements.html',results)
+
 def home(request):
     return render(request, 'Web_App/index.html')
 
@@ -30,3 +42,4 @@ def elements(request):
 
 def contact(request):
     return render(request, 'Web_App/contact.html')
+
