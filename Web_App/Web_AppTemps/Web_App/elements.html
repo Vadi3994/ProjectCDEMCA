@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="zxx" class="no-js">
-{% extends "base.html" %}
+
 {% load staticfiles %}
 {% block page_content %}
 
@@ -171,9 +171,8 @@
 <section class="property-area section-gap relative" id="property">
 		<div class="container">
 			<div class="row d-flex justify-content-center">
-			<div class="row">
-			
-			{% for propdetail in propdetails %}
+			<div class="row">		
+			{% for prop in propdetail %}
 				<div class="col-lg-4">
 					<div class="single-property">
 						<div class="images">
@@ -183,19 +182,19 @@
 
 						<div class="desc">
 							<div class="top d-flex justify-content-between">
-								<h4><a href="#">{{propdetail.Property Name}}</a></h4>
-								<h4>${{propdetail.Price}}</h4>
+								<h4><a href="#">{{prop.PropertyName}}</a></h4>
+								<h4>${{prop.Price}}</h4>
 							</div>
 							<div class="middle">
 								<div class="d-flex justify-content-start">
-									<p>Bed: {{propdetail.Bed}}</p>
-									<p>Bath: {{propdetail.Bath}}</p>
-									<p>Area: {{propdetail.Area}}</p>
+									<p>Bed: {{prop.Bed}}</p>
+									<p>Bath: {{prop.Bath}}</p>
+									<p>Area: {{prop.Area}}</p>
 								</div>
 								<div class="d-flex justify-content-start">
-									<p>Pool: <span class="gr">{{propdetail.Pool}}</span></p>
-									<p>3D View: <span class="rd">{{propdetail.3D View}}</span></p>
-									<p>Furnished: <span class="rd">{{propdetail.Furnished}}</span></p>
+									<p>Pool: <span class="gr">{{prop.Pool}}</span></p>
+									<p>3D View: <span class="rd">{{prop.3DView}}</span></p>
+									<p>Furnished: <span class="rd">{{prop.Furnished}}</span></p>
 								</div>
 							</div>
 							<div class="bottom d-flex justify-content-start">
@@ -206,6 +205,8 @@
 					</div>
 				</div>
 				{% endfor %}
+			</div>
+			</div>
 			</div>
 			<nav class="blog-pagination justify-content-center d-flex">
                             <ul class="pagination">
@@ -229,7 +230,7 @@
                                     <a href="#" class="page-link">04</a>
                                 </li>
                                 <li class="page-item">
-                                    <a href="#" class="page-link">09</a>
+                                    <a href="#" class="page-link">05</a>
                                 </li>
                                 <li class="page-item">
                                     <a href="#" class="page-link" aria-label="Next">
@@ -240,7 +241,6 @@
                                 </li>
                             </ul>
                         </nav>
-			</div>
 			</section>
 
 	<!-- start footer Area -->

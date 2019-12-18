@@ -1,0 +1,11 @@
+{% load staticfiles %}
+
+<html>
+<body>
+{% block header %}
+{% for prop in propdetail%}
+{{prop.Address}}<br>
+{%endfor%}
+{% endblock %}
+</body>
+</html>

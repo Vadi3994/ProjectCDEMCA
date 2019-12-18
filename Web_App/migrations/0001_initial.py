@@ -36,7 +36,7 @@ class Migration(migrations.Migration):
                 ('Bath', models.CharField(max_length=100, verbose_name='Bath')),
                 ('Area', models.CharField(max_length=100, verbose_name='Area')),
                 ('Pool', models.CharField(max_length=100, verbose_name='Pool')),
-                ('DimView', models.CharField(max_length=100, verbose_name='3DView')),
+                ('DimView', models.CharField(max_length=100, verbose_name='DimView')),
                 ('Furnished', models.CharField(max_length=100, verbose_name='Furnished')),
             ],
         ),

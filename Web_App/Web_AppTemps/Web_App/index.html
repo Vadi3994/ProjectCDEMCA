@@ -85,7 +85,7 @@
 				<div class="banner-content col-lg-12 col-md-12">
 					<h1>We’re Real Estate King</h1>
 					<div class="search-field">
-						<form class="search-form" action="#">
+						<form class="search-form" action="{% url 'Web_App:searchresult' %}">
 							<div class="row">
 								<div class="col-lg-12 d-flex align-items-center justify-content-center toggle-wrap">
 									<div class="row">
@@ -152,7 +152,7 @@
 									<input type="text" id="range2" value="" name="range" />
 								</div>
 								<div class="col-lg-4 d-flex justify-content-end">
-									<button class="primary-btn" onclick="location.href="{% url 'Web_App:searchresult' %}"">Search Properties<span class="lnr lnr-arrow-right"></span></button>
+									<button class="primary-btn" >Search Properties<span class="lnr lnr-arrow-right"></span></button>
 								</div>
 							</div>
 						</form>

@@ -1,0 +1,101 @@
+id	Property Name	Address	Location	Phone Number	Agent Name	Email	Availability	Property Type	Price	Bed	Bath 	Area	Pool	3D View	Furnished
+1	Holiday Inn Express-Tacoma	"9079 Bowman Ave.,Waltham, MA 02453"	Massachusetts	(871) 930-5361	Ireland Shepard	sacraver@hotmail.com	Active	Buy	3.5M	3	2	750sqm	Yes	No	No
+2	J A Ventures Llc	"674 Wrangler Drive,Oshkosh, WI 54901"	Wisconsin	(899) 644-0752	Wyatt Barr	stakasa@hotmail.com	Active	Buy	4.5M	4	3	850sqm	No	No	Yes
+3	Captain's Quarters	"319 Laurel Drive,Parlin, NJ 08859"	New Jersey	(578) 921-3808	Natalia Hull	gward@yahoo.ca	Active	Rent	2.5M	6	3	950sqm	Yes	No	No
+4	Pinehurst Motel & Cottages	"367 Rosewood St.,Oswego, NY 13126"	New York	(403) 646-7356	Willow Hester	jdhildeb@icloud.com	Active	Buy	3M	2	1	650sqm	No	No	Yes
+5	Ocean Haven	"4 Arch Road,Hartsville, SC 29550"	South Carolina	(993) 449-2924	Mariam Valentine	smeier@mac.com	Active	Buy	2M	5	3	900sqm	Yes	No	No
+6	Fixxxation	"8276 Penn Court,Willingboro, NJ 08046"	New Jersey	(695) 573-1549	Sidney Fitzpatrick	tromey@aol.com	Active	Rent	4M	3	2	750sqm	No	No	Yes
+7	The Summit Group	"8050 East Harrison Court,Forney, TX 75126"	Texas	(285) 996-7112	Jaden Compton	naoya@yahoo.ca	Active	Buy	3.5M	4	3	850sqm	Yes	No	No
+8	Silver King Inn & Suites	"7777 Brickyard St.,Livingston, NJ 07039"	New Jersey	(829) 265-0941	Jakayla Munoz	nullchar@yahoo.com	Active	Buy	4.5M	6	3	950sqm	No	No	Yes
+9	Salisbury House	"488 Lake Drive,Glastonbury, CT 06033"	Connecticut	(699) 979-8461	Lawson Herrera	mwandel@gmail.com	Active	Buy	2.5M	2	1	650sqm	Yes	No	No
+10	Kameron Chao	"71 Whitemarsh Drive,Dorchester, MA 02125"	Massachusetts	(555) 885-8329	Deshawn Everett	garland@hotmail.com	Active	Rent	3M	5	3	900sqm	No	No	Yes
+11	Sea Side Hotel	"843 Santa Clara Ave.,Northbrook, IL 60062"	Illinois	(697) 687-8399	Milo Esparza	chance@hotmail.com	Active	Buy	2M	3	2	750sqm	Yes	No	No
+12	Cayman Suites	"373 Park Rd.,Dorchester Center, MA 02124"	Massachusetts	(255) 473-9766	Jessie Tucker	smallpaul@outlook.com	Active	Buy	4M	4	3	850sqm	No	No	Yes
+13	Carolinian Motel	"7125 Arrowhead Lane,Findlay, OH 45840"	Ohio	(725) 938-6303	Emery Cooke	tfinniga@hotmail.com	Active	Rent	3.5M	6	3	950sqm	Yes	No	No
+14	Brooks Spinal Care Pc	"60 South Roberts Road,Unit 3,Colorado Springs, CO 80911"	Colorado	(843) 334-9578	Natalya Gomez	stomv@optonline.net	Active	Buy	4.5M	2	1	650sqm	No	No	Yes
+15	Heron In LA Conner	"8005 Spruce Street,Lake Charles, LA 70605"	Louisiana	(807) 818-0606	Cooper Ballard	bockelboy@hotmail.com	Active	Buy	2.5M	5	3	900sqm	Yes	No	No
+16	Capitol Records - Nashville	"433 E. Myers Dr.,Hempstead, NY 11550"	New York	(371) 894-7432	Devin Benjamin	rupak@comcast.net	Active	Buy	3M	3	2	750sqm	No	No	Yes
+17	House Of Seven Gables	"392 Sleepy Hollow St.,Chelmsford MA 01824"	Massachusetts	(495) 761-2441	Kai Thomas	sburke@yahoo.com	Active	Rent	2M	4	3	850sqm	Yes	No	No
+18	Wildcat Shoals Resort	"8677 West State Drive,Morganton, NC 28655"	North Carolina	(780) 205-3415	Kade Carrillo	tubesteak@yahoo.com	Active	Buy	3.5M	6	3	950sqm	No	No	Yes
+19	Meadow Glen Inn & Cottages	"77 Pilgrim St.,Oxon Hill, MD 20745"	Maryland	(763) 808-7479	Mackenzie Wright	onestab@yahoo.ca	Active	Buy	4.5M	2	1	650sqm	Yes	No	No
+20	Madison Heights	"7228 Southampton Court,Lawndale, CA 90260"	California	(701) 849-5891	Aiden Lutz	unreal@mac.com	Active	Rent	2.5M	5	3	900sqm	No	No	Yes
+21	Michels Restaurant	"9521 Valley View Street,Methuen, MA 01844"	Massachusetts	(980) 563-0458	Leslie Liu	schumer@me.com	Active	Buy	3M	3	2	750sqm	Yes	No	No
+22	Victorian Villa Inn	"9 Green Lake St.,Calumet City, IL 60409"	Illinois	(868) 608-1092	Parker Giles	fglock@mac.com	Active	Buy	2M	4	3	850sqm	No	No	Yes
+23	Hampton Inn-South	"7946 W. Parker St.,Savannah, GA 31404"	Georgia	(358) 611-8053	Jasmin Bowers	hikoza@outlook.com	Active	Buy	4M	6	3	750sqm	Yes	No	No
+24	La Quinta Inn Suites	"356 Pierce Road,Williamsport, PA 17701"	Pennsylvania	(813) 912-6302	Liana Atkinson	ivoibs@me.com	Active	Rent	3.5M	2	1	850sqm	No	No	Yes
+25	Fountain Inn & Suites	"909 Shore St.,Collierville, TN 38017"	Tennessee	(431) 948-1859	Holden Lyons	lcheng@live.com	Active	Buy	4.5M	5	3	950sqm	Yes	No	No
+26	Mcabee Finance Consulting	"831 Trenton St.,Port Saint Lucie, FL 34952"	Florida	(801) 973-8056	Connor Dominguez	dhwon@mac.com	Active	Buy	2.5M	3	2	650sqm	No	No	Yes
+27	Anniversary Mansion B & B	"7 E. Riverview St.,Herndon, VA 20170"	Virginia	(573) 993-3280	Keira Manning	manuals@sbcglobal.net	Active	Rent	3M	4	3	900sqm	Yes	No	No
+28	Sherwood Hills Resort	"583 Manor St.,East Orange, NJ 07017"	New Jersey	(888) 912-4637	Cordell Salinas	wmszeliga@yahoo.com	Active	Buy	2M	6	3	750sqm	No	No	Yes
+29	A Sunburst Cabins & Stables	"857 Eagle St.,Solon, OH 44139"	Ohio	(778) 346-0346	Jameson Huerta	scottlee@msn.com	Active	Buy	4M	2	1	850sqm	Yes	No	No
+30	Premier Baseball School	"29 Union Court,West Roxbury, MA 02132"	Massachusetts	(680) 266-9797	Janelle Dougherty	cliffski@mac.com	Active	Buy	3.5M	5	3	950sqm	No	No	Yes
+31	Lost Trail Ranch	"559 Lakeshore Lane,Kings Mountain, NC 28086"	North Carolina	(512) 284-4929	Chaim Hampton	psichel@outlook.com	Active	Rent	4.5M	3	2	650sqm	Yes	No	No
+32	Heits Point Lutheran Ministri	"806 Galvin Circle,Henrico, VA 23228"	Virginia	(326) 909-4720	Kinley Mcdaniel	ntegrity@yahoo.com	Active	Buy	2.5M	4	3	900sqm	No	No	Yes
+33	Flying Saucer Resorts	"9780 E. Blackburn Dr.,Natick, MA 01760"	Massachusetts	(348) 836-7227	Camron Orr	hakim@live.com	Active	Buy	3M	6	3	750sqm	Yes	No	No
+34	Bonnie Woods	"803 Lakeshore St.,Venice, FL 34293"	Florida	(357) 881-5781	Amani Dyer	rsteiner@gmail.com	Active	Rent	2M	2	1	850sqm	No	No	Yes
+35	Sleep Inn-New Orleans	"959 River Lane,Evansville, IN 47711"	Indiana	(992) 667-7784	Sebastian Powers	danny@hotmail.com	Active	Buy	3.5M	5	3	950sqm	Yes	No	No
+36	Pana-Sea-Ah Bed & Breakfast	"7690 Marsh Lane,Middletown, CT 06457"	Connecticut	(728) 312-0065	Coby Glover	comdig@msn.com	Active	Buy	4.5M	3	2	650sqm	No	No	Yes
+37	Pine Grove Lodge B & B	"609 Deerfield Street,Collegeville, PA 19426"	Pennsylvania	(948) 627-3931	Kaylee Morris	sfoskett@optonline.net	Active	Buy	2.5M	4	3	900sqm	Yes	No	No
+38	Idle Times Campground	"75 Amerige Court,Horn Lake, MS 38637"	Mississippi	(507) 228-4878	Selina Weaver	claesjac@optonline.net	Active	Rent	3M	6	3	750sqm	No	No	Yes
+39	Langtech Services Inc	"7116 Bridgeton St.,Flint, MI 48504"	Michigan	(907) 590-6855	Kaleigh Barry	penna@att.net	Active	Buy	2M	2	1	850sqm	Yes	No	No
+40	Baffin Bay Lodge	"529 South Honey Creek Avenue,South Windsor, CT 06074"	Connecticut	(410) 349-5743	Randy Rush	dcoppit@comcast.net	Active	Buy	4M	5	3	950sqm	No	No	Yes
+41	Branch Colonial House	"9514 Campfire Dr.,Navarre, FL 32566"	Florida	(241) 664-0827	Dawson Parks	cosimo@aol.com	Active	Rent	3.5M	3	2	650sqm	Yes	No	No
+42	Lake Swan Camp	"434 Heritage Ave.,Colonial Heights, VA 23834"	Virginia	(459) 203-6853	Tianna Cortez	shang@aol.com	Active	Buy	4.5M	4	3	900sqm	No	No	Yes
+43	Bindlestiff's Cabin	"8017 Fairview St.,Abingdon, MD 21009"	Maryland	(403) 513-0974	Azul Dean	bdbrown@att.net	Active	Buy	2.5M	6	3	750sqm	Yes	No	No
+44	Whale's Tale Motel	"9039 Wakehurst St.,Longview, TX 75604"	Texas	(327) 565-2184	Heath Wheeler	brainless@verizon.net	Active	Buy	3M	2	1	850sqm	No	No	Yes
+45	Ocean Air Motel	"15 Somerset Drive,Omaha, NE 68107"	Nebraska	(652) 327-8394	Mike Fitzgerald	airship@yahoo.ca	Active	Rent	2M	5	3	750sqm	Yes	No	No
+46	Sands Human Resources	"341 West Country Club Drive,Baton Rouge, LA 70806"	Louisiana	(969) 595-1505	Jessica Decker	hager@sbcglobal.net	Active	Buy	4M	3	2	850sqm	No	No	Yes
+47	Wolcott Hotel	"8202 Harvard Dr.,Middleburg, FL 32068"	Florida	(715) 960-2050	Helen Mooney	niknejad@gmail.com	Active	Buy	3.5M	4	3	950sqm	Yes	No	No
+48	Cch Enterprises	"7 Howard Lane,Port Jefferson Station, NY 11776"	New York	(499) 691-8117	Jayleen Shields	mailarc@optonline.net	Active	Rent	4.5M	6	3	650sqm	No	No	Yes
+49	Curtis Consulting Group	"16 Oak Meadow Lane,Hialeah, FL 33010"	Florida	(618) 384-8677	Terrell Hudson	uncle@live.com	Active	Buy	2.5M	2	1	900sqm	Yes	No	No
+50	Love House Bed & Breakfast	"80 Brickell Lane,Milwaukee, WI 53204"	Wisconsin	(759) 314-0655	Azaria Fernandez	padme@hotmail.com	Active	Buy	3M	5	3	750sqm	No	No	Yes
+51	Cresthill Suites Hotel	"8631 Cleveland Ave.,Glen Cove, NY 11542"	New York	(655) 372-4524	Mary Wu	ngedmond@live.com	Active	Buy	2M	3	2	850sqm	Yes	No	No
+52	Jay Cidman	"7965 Thorne Court,Meriden, CT 06450"	Connecticut	(934) 652-4391	Nylah Bautista	giafly@me.com	Active	Rent	3.5M	4	3	950sqm	No	No	Yes
+53	Cevan Castle	"66 Alton St.,Rego Park, NY 11374"	New York	(216) 729-7437	Lizeth Fritz	muadip@me.com	Active	Buy	4.5M	6	3	650sqm	Yes	No	No
+54	Canada Creek Ranch Assn Inc	"7 NE. Green Lake Rd.,Pelham, AL 35124"	Alabama	(947) 324-8561	Keith Noble	kourai@gmail.com	Active	Buy	2.5M	2	1	900sqm	No	No	Yes
+55	Lake Rosemound Inn	"8112 Thorne St.,Long Branch, NJ 07740"	New Jersey	(368) 754-2691	Paityn Turner	arebenti@optonline.net	Active	Rent	3M	5	3	750sqm	Yes	No	No
+56	North Bay Bed & Breakfast	"9701 Heather Ave.,Butler, PA 16001"	Pennsylvania	(504) 218-9823	Niko Bray	dimensio@outlook.com	Active	Buy	2M	3	2	850sqm	No	No	Yes
+57	Plantation Beach Club	"82 Valley Rd.,Richmond, VA 23223"	Virginia	(250) 928-1305	Joy Moran	jeffcovey@aol.com	Active	Buy	4M	4	3	950sqm	Yes	No	No
+58	Camp Nawaka	"40 Valley Drive,Port Washington, NY 11050"	New York	(841) 947-8235	Sean Cohen	wsnyder@sbcglobal.net	Active	Buy	3.5M	6	3	650sqm	No	No	Yes
+59	Snug Hollow Farm B & B	"708 SE. Rockwell Ave.,Canton, GA 30114"	Georgia	(590) 947-8561	Kenna Parsons	oevans@verizon.net	Active	Rent	4.5M	2	1	900sqm	Yes	No	No
+60	Ramada Inn Airport North	"5 East Windsor Court,Traverse City, MI 49684"	Michigan	(357) 590-1184	Nelson Raymond	phyruxus@sbcglobal.net	Active	Buy	2.5M	5	3	750sqm	No	No	Yes
+61	Lazy Wolf Resort	"723 Grove Court,Fort Wayne, IN 46804"	Indiana	(709) 808-5199	Miley Barrera	seanq@mac.com	Active	Buy	3M	3	2	850sqm	Yes	No	No
+62	Goody's Resort	"8495 Sierra St.,Gloucester, MA 01930"	Massachusetts	(424) 394-0921	Dereon Barron	seasweb@yahoo.ca	Active	Rent	2M	4	3	950sqm	No	No	Yes
+63	Chateau Suite Hotel-Shreveport	"7711 San Carlos Street,Waukesha, WI 53186"	Wisconsin	(276) 423-9889	Semaj Hood	keiji@mac.com	Active	Buy	4M	6	3	650sqm	Yes	No	No
+64	Freese & Friends Graphic Design And Marketing	"79 Swanson Street,Saugus, MA 01906"	Massachusetts	(678) 722-5560	Jamiya Ryan	druschel@msn.com	Active	Buy	3.5M	2	1	900sqm	No	No	Yes
+65	Stoneliegh Hotel	"33 W. Hillside Drive,Mocksville, NC 27028"	North Carolina	(925) 527-6350	Raina Ferguson	sthomas@yahoo.com	Active	Buy	4.5M	5	3	750sqm	Yes	No	No
+66	Friday Harbor House	"411 West St.,Battle Creek, MI 49015"	Michigan	(879) 331-8796	Luciano Villarreal	gomor@me.com	Active	Rent	2.5M	3	2	850sqm	No	No	Yes
+67	Holiday Inn Express-Hagerstown	"568 Heritage Street,Pikesville, MD 21208"	Maryland	(912) 837-8743	Alyssa Gould	ardagna@yahoo.com	Active	Buy	3M	4	3	750sqm	Yes	No	No
+68	Bellasera Hotel	"218 Bridle Street,Racine, WI 53402"	Wisconsin	(616) 761-2763	Jordan Henry	kawasaki@comcast.net	Active	Buy	2M	6	3	850sqm	No	No	Yes
+69	Old Hotel Bed & Breakfast	"9762 Philmont Drive,Upland, CA 91784"	California	(683) 641-6583	Kyla Peck	corrada@msn.com	Active	Rent	3.5M	2	1	950sqm	Yes	No	No
+70	Lakeshore Motor Hotel	"57 53rd St.,Central Islip, NY 11722"	New York	(464) 946-8777	Aliya Rice	galbra@live.com	Active	Buy	4.5M	5	3	650sqm	No	No	Yes
+71	Customer Value Institute	"5 Jackson Lane,Rahway, NJ 07065"	New Jersey	(781) 937-9181	Jorge Whitehead	nimaclea@gmail.com	Active	Buy	2.5M	3	2	900sqm	Yes	No	No
+72	Masons	"55 University St.,West Babylon, NY 11704"	New York	(668) 869-1487	Immanuel Bush	fangorn@verizon.net	Active	Buy	3M	4	3	750sqm	No	No	Yes
+73	KC Airport Hotel Inc	"9147 Pleasant Rd.,Covington, GA 30014"	Georgia	(208) 316-0565	Alina Branch	euice@icloud.com	Active	Rent	2M	6	3	850sqm	Yes	No	No
+74	Armit Resort & Residences	"770 Spruce Street,Portsmouth, VA 23703"	Virginia	(408) 341-3904	Davon Shepherd	gregh@me.com	Active	Buy	4M	2	1	950sqm	No	No	Yes
+75	None Applicable	"15 Logan Street,North Andover, MA 01845"	Massachusetts	(433) 724-8223	Madalyn Spencer	mavilar@comcast.net	Active	Buy	3.5M	5	3	650sqm	Yes	No	No
+76	Kb Engine Research	"6 Trenton Street,Ponte Vedra Beach, FL 32082"	Florida	(238) 677-5018	Zain Shepard	philb@me.com	Active	Rent	4.5M	3	2	900sqm	No	No	Yes
+77	Duneland Beach Inn	"8362 South Rocky River Road,Caldwell, NJ 07006"	New Jersey	(605) 511-2445	Dalton Parks	hakim@me.com	Active	Buy	2.5M	4	3	750sqm	Yes	No	No
+78	Devils Tower Lodge	"68 East Arrowhead St.,Allison Park, PA 15101"	Pennsylvania	(515) 615-1585	Kole Buckley	frosal@outlook.com	Active	Buy	3M	6	3	850sqm	No	No	Yes
+79	Sterling Hotel	"43 South Lees Creek Street,Des Plaines, IL 60016"	Illinois	(953) 458-5651	Dashawn Zavala	crusader@sbcglobal.net	Active	Buy	2M	2	1	950sqm	Yes	No	No
+80	Kettering Insurance Agency	"7029 East Saxton St.,Parkersburg, WV 26101"	West Virginia	(353) 790-0285	Kirsten Lopez	dhwon@mac.com	Active	Rent	4M	5	3	650sqm	No	No	Yes
+81	Hotel Preet	"70 Linda Court,Waterford, MI 48329"	Michigan	(564) 627-1120	Glenn Duke	rande@yahoo.com	Active	Buy	3.5M	3	2	900sqm	Yes	No	No
+82	Double Barr Cottages	"30 Purple Finch St.,Frankfort, KY 40601"	Kentucky	(672) 760-1986	Rodney Morales	parrt@sbcglobal.net	Active	Buy	4.5M	4	3	750sqm	No	No	Yes
+83	Migis Lodge	"4 N. Miles Lane,Buffalo, NY 14215"	New York	(737) 317-0391	Mitchell Harvey	wainwrig@comcast.net	Active	Rent	2.5M	6	3	850sqm	Yes	No	No
+84	MT Whittier Motel	"29 Oakland Ave.,Fenton, MI 48430"	Michigan	(222) 833-1350	Brett Norris	leviathan@hotmail.com	Active	Buy	3M	2	1	950sqm	No	No	Yes
+85	Stoneridge Condo Resort	"361 Sunnyslope Dr.,Corpus Christi, TX 78418"	Texas	(272) 968-0230	Patrick Rivas	flaviog@live.com	Active	Buy	2M	5	3	650sqm	Yes	No	No
+86	Castle Creek Inn	"41 Smoky Hollow Ave.,Elk River, MN 55330"	Minnesota	(873) 772-6256	Ernesto Campos	kosact@yahoo.ca	Active	Buy	3.5M	3	2	900sqm	No	No	Yes
+87	Victorian Memories B & B	"740 South Oakwood St.,Woodbridge, VA 22191"	Virginia	(449) 791-9593	Antoine Walters	lbecchi@verizon.net	Active	Rent	4.5M	4	3	750sqm	Yes	No	No
+88	Camp New Hope Office	"7538 Jennings Avenue,Redondo Beach, CA 90278"	California	(548) 926-3258	Ahmed Webster	metzzo@sbcglobal.net	Active	Buy	2.5M	6	3	850sqm	No	No	Yes
+89	Best Western-Wesley Inn	"827 Columbia Street,Ballston Spa, NY 12020"	New York	(666) 941-8172	Lorena Vang	bahwi@aol.com	Active	Buy	3M	2	1	750sqm	Yes	No	No
+90	Brownell-Talbot School	"11 Tarkiln Hill Street,Mankato, MN 56001"	Minnesota	(286) 455-7708	Yasmin Holder	rsmartin@me.com	Active	Rent	2M	5	3	850sqm	No	No	Yes
+91	Collins Plaza Hotel	"905 University Drive,Batavia, OH 45103"	Ohio	(848) 791-2680	Dylan Strong	vertigo@yahoo.com	Active	Buy	4M	3	2	950sqm	Yes	No	No
+92	Coastal Trail Bed & Breakfast	"62 Shadow Brook Drive,Fort Lee, NJ 07024"	New Jersey	(622) 843-4439	Lukas Doyle	jguyer@optonline.net	Active	Buy	3.5M	4	3	650sqm	No	No	Yes
+93	Travelers Rest	"127 Peninsula Rd.,Mount Juliet, TN 37122"	Tennessee	(315) 830-4631	Coleman Daugherty	facet@yahoo.ca	Active	Buy	4.5M	6	3	900sqm	Yes	No	No
+94	Country Inn-Erie South	"8138 Sunset Dr.,Port Huron, MI 48060"	Michigan	(291) 901-5247	Lilliana Mclean	campware@hotmail.com	Active	Rent	2.5M	2	1	750sqm	No	No	Yes
+95	Cenox Systems Of America	"69 Jackson Street,Auburndale, FL 33823"	Florida	(829) 908-5606	Amir Marsh	nasor@mac.com	Active	Buy	3M	5	3	850sqm	Yes	No	No
+96	Saratoga Hospital	"934 South Briarwood St.,Lakewood, NJ 08701"	New Jersey	(598) 656-7632	Cale Madden	adhere@hotmail.com	Active	Buy	2M	3	2	950sqm	No	No	Yes
+97	Super E Athens	"57 Old York Street,Hickory, NC 28601"	North Carolina	(314) 308-1203	Makhi Page	claypool@aol.com	Active	Rent	4M	4	3	650sqm	Yes	No	No
+98	Tma Corporate Suites LLC	"1 Virginia Drive,Lady Lake, FL 32159"	Florida	(266) 804-9830	Emmett Gilmore	pereinar@aol.com	Active	Buy	3.5M	6	3	900sqm	No	No	Yes
+99	Real Estate Broker-Keller Williams	"530 Hillcrest Street,Ridgefield, CT 06877"	Connecticut	(464) 847-0353	Kellen Young	frode@icloud.com	Active	Buy	4.5M	2	1	750sqm	Yes	No	No
+100	Burson's Delta Resort	"900 N. Alderwood Street,Starkville, MS 39759"	Mississippi	(708) 203-9281	Antwan Mack	timlinux@optonline.net	Active	Buy	2.5M	5	3	850sqm	No	No	Yes
