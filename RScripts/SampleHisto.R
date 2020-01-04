@@ -1,5 +1,6 @@
-library("RSQLite")
-con = dbConnect(drv="SQLite", dbname="db.sqlite3")
+library(DBI)
+library(RSQLite)
+con = dbConnect(SQLite(), "C:/Users/velu3/Documents/GitHub/ProjectCDEMCA/db.sqlite3")
 alltables = dbListTables(con)
 customer_data = dbGetQuery( con,'select * from Web_App_customer' )
 
