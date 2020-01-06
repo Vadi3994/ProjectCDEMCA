@@ -23,9 +23,9 @@ def about(request):
     return render(request, 'Web_App/about.html')
 
 def bloghome(request):
-    command = 'jupyter nbconvert --to pdf --execute --allow-errors GenerateRGraphs.ipynb'
+    command = 'jupyter --execute --allow-errors GenerateRGraphs.ipynb'
     os.system(command)
-    return render(request, 'Web_App/blog-home.html')
+    return render(request, 'Web_App/RData.html')
 
 def singleblog(request):
     return render(request, 'Web_App/single-blog.html')
